@@ -2,6 +2,22 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,23,30&height=220&section=header&text=Hi%20there%20👋,%20I'm%20Mofazzel%20Hossain%20Hridoy&fontSize=28&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20|%20PostgreSQL%20&%20Prisma%20Enthusiast&descSize=16&descAlignY=58&animation=fadeIn" alt="Header Banner" />
 </p>
 
+<div align="center">
+  <h3>✨ Welcome to My GitHub Profile! ✨</h3>
+  <p><i>Building scalable, robust, and modern web applications with a touch of clean architecture.</i></p>
+  
+  <p>
+    <a href="https://linkedin.com/in/hridoy-hossain-0774531a2" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:mofazzelhossain185@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+  </p>
+</div>
+
+---
+
 ---
 
 ### 👨‍💻 About Me
