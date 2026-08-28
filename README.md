@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=650&lines=Hi+there+👋%2C+I+am+Mofazzel+Hossain+Hridoy;Full-Stack+MERN+Developer;PostgreSQL+%26+Prisma+Enthusiast;Tailwind+CSS+Styling+Expert" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,23,30&height=220&section=header&text=Hi%20there%20👋,%20I'm%20Mofazzel%20Hossain%20Hridoy&fontSize=28&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20MERN%20Developer%20|%20PostgreSQL%20&%20Prisma%20Enthusiast&descSize=16&descAlignY=58&animation=fadeIn" alt="Header Banner" />
+</p>
 
 ---
 
@@ -29,15 +29,15 @@
 
 ### 📊 GitHub Trophies & Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=HrHossain&theme=tokyonight&no-bg=true&margin-w=5&margin-h=5" alt="GitHub Trophies" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=HrHossain&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrHossain&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
