@@ -42,22 +42,6 @@
 
 ---
 
-### 📊 GitHub Trophies & Stats
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=HrHossain&theme=tokyonight&no-bg=true&margin-w=5&margin-h=5" alt="GitHub Trophies" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HrHossain&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrHossain&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 📈 Profile Views
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HrHossain&style=flat-square&color=blueviolet" alt="Profile Views" />
